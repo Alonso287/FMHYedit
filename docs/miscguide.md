@@ -875,7 +875,7 @@
 * [carsized](https://www.carsized.com/) - Vehicle Size Comparisons
 * [CarVertical](https://www.carvertical.com/), [VehicleHistory](https://www.vehiclehistory.com/) or [Car Owners](https://carsowners.net/) - Vehicle History & VIN Search
 * [NHTSA](https://vpic.nhtsa.dot.gov/api/) - Vehicle Registration Database
-* [RockAuto](https://www.rockauto.com/) or [PartSouq](https://partsouq.com/) - Auto Parts Search
+* [PartSouq](https://partsouq.com/) - Auto Parts Search
 * [HiddenHousing](https://www.hiddenhousing.org/) - House Pricing Map
 * [Chipscribe](https://chipscribe.com/) - Split Service Subscription Costs Anonymously
 * [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
@@ -1394,7 +1394,7 @@
 * [Fun Trivia](https://www.funtrivia.com/), [Sporcle](https://www.sporcle.com/), [uQuiz](https://uquiz.com/), [ARealMe](https://www.arealme.com/) or [JetPunk](https://www.jetpunk.com/) - Quiz / Trivia
 * [Bestiefy](https://bestiefy.com/) - Friend Quizzes
 * [theOtaku](https://theotaku.com/quizzes) - Anime Personality Quizzes
-* [8dreams](https://8dreams.github.io/) - Political Alignment Test
+* [Politiscales](https://politiscales.party/), [8dreams](https://8dreams.github.io/) or [8values](https://8values.github.io/) - Political Alignment Test
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge AI
 * [Face Shape AI](https://www.detect-face-shape.com) or [FaceShape](https://www.faceshape.com/) - Face Shape Detectors
 * [Face Age AI](https://www.howolddoilook.io) - AI Age Guessing
